@@ -1,3 +1,5 @@
+CURRENT BUILD: AIVI direction test
+
 STEPS TO RUN:
 
 1) Install pip
