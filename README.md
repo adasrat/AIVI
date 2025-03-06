@@ -1,4 +1,4 @@
-CURRENT BUILD: AIVI direction test
+CURRENT BUILD: AIVI distance test
 
 STEPS TO RUN:
 
