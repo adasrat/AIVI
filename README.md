@@ -1,4 +1,4 @@
-CURRENT BUILD: AIVI distance test
+CURRENT BUILD: AIVI data test 1
 
 STEPS TO RUN:
 
@@ -11,3 +11,8 @@ STEPS TO RUN:
 4) Change cap = cv2.VideoCapture(1) to the desired index (0 is interanl, 1 is external, 2 is anything else)
 
 5) Run 
+
+If you are getting errors with OpenCV run the following:
+
+1) pip uninstall opencv-python opencv-python-headless
+2) pip install opencv-python
