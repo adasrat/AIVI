@@ -1,4 +1,4 @@
-CURRENT BUILD: AIVI data test 1
+CURRENT BUILD: AIVI final custom / AIVI rasp test (for raspberry pi)
 
 STEPS TO RUN:
 
