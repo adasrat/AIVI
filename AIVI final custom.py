@@ -4,7 +4,7 @@ import pyttsx3
 import time
 import threading
 
-model = YOLO("best.pt")
+model = YOLO("newbest.pt")
 engine = pyttsx3.init()
 
 # Set the voice to a female voice 
